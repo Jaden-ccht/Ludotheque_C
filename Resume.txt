@@ -1,0 +1,9 @@
+Le fichier jeux correspond à un tableau de pointeur sur la struture Jeux
+Le fichier Adherent correspond à une liste d'adherent 
+Le fichier Emmprunt correspond à une liste d'emprunt
+Le fichier reservation correspond à une liste de reservation
+On a opté pour un tableau de pointeur car les jeux n'ont pas besoin d'être modifié : inserer, supprimer ... 
+Nous avons fait une liste pour les adherents, emprunt et reservation car nous avons souvent besoin de les manipuler : modifier, supprimer, ajouter. Les listes facilitent donc cet usage. 
+Dans nos fichiers reservations.txt et adherents.txt, nous avons une ligne remplie avec des valeurs = 0 ce qui nous permet de ne pas avoir a retourner nos listes dans chaque fonctions car on ne modifie jamais le premier maillon de chaque liste. 
+Nous n'avons pas opté pour un tri dichotomique car celui-ci est très lourd bien que efficace, comme nous possédant peu de données a manipuler dans nos fichier, nous avons opté pour une fonction de tri courte mais qui est efficace lorsqu'il y a peu de valeur a trier. 
+Toute nos fonctionnalités fonctionnent.

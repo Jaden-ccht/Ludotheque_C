@@ -1,0 +1,8 @@
+147 Carte....... 1 Tarot
+369 Carte....... 2 Uno
+145 Construction 1 Counter strike
+125 Logique..... 3 League of legend
+158 Plateau..... 0 La bonne Paye
+172 Plateau..... 0 Monopoly
+012 Tuile....... 1 Dominos
+209 Tuile....... 3 Qwirkle
